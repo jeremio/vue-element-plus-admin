@@ -1,0 +1,1 @@
+import{aR as e}from"./index.04aee318.js";const a=["year","month","date","dates","week","datetime","datetimerange","daterange","monthrange"],t=a=>["",...e].includes(a),n=e=>[...a].includes(e);export{n as a,t as i};
